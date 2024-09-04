@@ -11,10 +11,13 @@ The goal of this project is to conduct a comprehensive analysis of the hotel ind
 Datasets:
 
 dim_date.csv
+
 dim_hotels.csv
+
 dim_rooms.csv
+
 fact_bookings.csv
-new_data_august.csv
+
 fact_aggregated_bookings.csv
 
 Tools & Functions Used:
@@ -25,6 +28,7 @@ NumPy: Handling numerical operations and creating new variables like occupancy p
 Data Cleaning Techniques: Addressed missing data, corrected formats, and removed outliers to ensure data quality.
 
 Key Learnings:
+
 Data Cleaning: Identifying and handling outliers and inconsistencies is crucial for accurate insights.
 
 Visualization: Effective use of Python’s visualization libraries (Matplotlib, Pandas) is key to presenting data in an understandable format.
